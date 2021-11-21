@@ -1,4 +1,3 @@
-# meter
-## to verify Church expression
+# meter## to verify Church expression
 ITE: if-then-else
-![example](ba20ff9f2cc6483df09002822058fd40bf4a589c)
+example: see 2021-11-19 223030.png
